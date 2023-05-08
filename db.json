@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "username": "abusef",
+      "email": "abusefkuzu@gmail.com",
+      "password": "abusef123",
+      "id": 1
+    },
+    {
+      "username": "abusef",
+      "email": "abusefkuzu@gmail.com",
+      "password": "abusef123",
+      "id": 2
+    },
+    {
+      "username": "savas",
+      "email": "savaskuzu@gmail.com",
+      "password": {
+        "words": [
+          2016412635,
+          91405426,
+          1545390994,
+          1190474925,
+          -950055125,
+          -484202466,
+          1665291602,
+          -149370059
+        ],
+        "sigBytes": 32
+      },
+      "id": 3
+    },
+    {
+      "username": "avniye",
+      "email": "avniyekuzu@gmail.com",
+      "password": "783003db0572bc725c1ccb9246f534adc75f4f2be323a81e63425552f718cb35",
+      "id": 4
+    },
+    {
+      "username": "abusefkuzu",
+      "email": "abusefkuzu@gmail.com",
+      "password": "783003db0572bc725c1ccb9246f534adc75f4f2be323a81e63425552f718cb35",
+      "id": 5,
+      "beden": [
+        null
+      ],
+      "likes": [
+        null
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "marka": "Altınyıldız Classics",
+      "name": "Soğuk Geçirmez Polar",
+      "price": "139.99 TL",
+      "img": "https://cdn.dsmcdn.com/ty183/product/media/images/20210929/13/137511765/221223124/1/1_org_zoom.jpg"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "marka": "GRİMELANGE",
+      "name": "Oversize Yeşil Tshirt",
+      "price": "109.99 TL",
+      "img": "https://cdn.dsmcdn.com/ty427/product/media/images/20220510/17/109169101/245017610/1/1_org.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "marka": "Nike",
+      "name": "Jordan Psg Tshirt",
+      "price": "599.99 TL",
+      "img": "https://cdn.dsmcdn.com/ty415/product/media/images/20220501/12/100850960/464337229/1/1_org.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "marka": "Damat",
+      "name": "Regular Fit Deri Mont",
+      "price": "119.99 TL",
+      "img": "https://cdn.dsmcdn.com/ty808/product/media/images/20230331/20/316478841/691884639/1/1_org.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "beden": "S"
+    },
+    {
+      "id": 2,
+      "beden": "M"
+    },
+    {
+      "id": 3,
+      "beden": "L"
+    },
+    {
+      "id": 4,
+      "beden": "XL"
+    }
+  ],
+  "newSepet": [
+    {
+      "id": 1,
+      "categoryId": 3,
+      "marka": "Altınyıldız Classics",
+      "name": "Soğuk Geçirmez Polar",
+      "price": "139.99 TL",
+      "img": "https://cdn.dsmcdn.com/ty183/product/media/images/20210929/13/137511765/221223124/1/1_org_zoom.jpg",
+      "category": {
+        "id": 1,
+        "beden": "S"
+      }
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "marka": "GRİMELANGE",
+      "name": "Oversize Yeşil Tshirt",
+      "price": "109.99 TL",
+      "img": "https://cdn.dsmcdn.com/ty427/product/media/images/20220510/17/109169101/245017610/1/1_org.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "marka": "Damat",
+      "name": "Regular Fit Deri Mont",
+      "price": "119.99 TL",
+      "img": "https://cdn.dsmcdn.com/ty808/product/media/images/20230331/20/316478841/691884639/1/1_org.jpg"
+    }
+  ]
+}
